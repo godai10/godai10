@@ -2,10 +2,10 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas | Focado em Desenvolvimento Web e Big Data
 
-[cite_start]Sou um estudante de Análise e Desenvolvimento de Sistemas em busca da minha primeira oportunidade no mercado de trabalho para aplicar e aprimorar meus conhecimentos[cite: 28]. Tenho paixão por tecnologia e estou sempre buscando aprender mais sobre desenvolvimento, dados e automação.
+Sou um estudante de Análise e Desenvolvimento de Sistemas em busca da minha primeira oportunidade no mercado de trabalho para aplicar e aprimorar meus conhecimentos. Tenho paixão por tecnologia e estou sempre buscando aprender mais sobre desenvolvimento, dados e automação.
 
-- [cite_start]🌱 Tenho noções práticas de **banco de dados, redes, computação em nuvem e desenvolvimento web**[cite: 29].
-- [cite_start]📫 Como entrar em contato comigo: **murillogd10@gmail.com** [cite: 5] [cite_start]ou pelo **[LinkedIn](https://www.linkedin.com/in/murillo-gomes-denadai-63731729a/)**[cite: 7, 8].
+- 🌱 Tenho noções práticas de **banco de dados, redes, computação em nuvem e desenvolvimento web**.
+- 📫 Como entrar em contato comigo: **murillogd10@gmail.com** ou pelo **[LinkedIn](https://www.linkedin.com/in/murillo-gomes-denadai-63731729a/)**.
 
 ---
 
