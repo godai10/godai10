@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Murillo Gomes! 👋
 
-<!--
-**godai10/godai10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Análise e Desenvolvimento de Sistemas | Focado em Desenvolvimento Web e Big Data
 
-Here are some ideas to get you started:
+Sou um estudante de Análise e Desenvolvimento de Sistemas em busca da minha primeira oportunidade no mercado de trabalho para aplicar e aprimorar meus conhecimentos. Tenho paixão por tecnologia e estou sempre buscando aprender mais sobre desenvolvimento, dados e automação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou aprimorando meus conhecimentos em **Python com foco em Big Data**.
+- 🌱 Tenho noções práticas de **banco de dados, redes, computação em nuvem e desenvolvimento web**.
+- 📫 Como entrar em contato comigo: **murillogd10@gmail.com** ou pelo **[LinkedIn](https://www.linkedin.com/in/murillo-gomes-denadai-63731729a/)**.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mysql,py,git,vscode" />
+  </a>
+</p>
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=godai10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godai10&layout=compact&langs_count=7&theme=dracula"/>
+</p>
